@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name" translatable="false">DrinkTracker</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="tvContraseña">Contraseña</string>
+    <string name="tvBienvenido">Drink Tracker</string>
+    <string name="tvControl" translatable="false">Registra y Controla tu Consumo de Alcohol</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Drink Tracker</string>
+    <string name="nav_header_subtitle" translatable="false">Programacion Movil</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+
+    <string name="menu_registro">Registrar consumo</string>
+    <string name="menu_registroFragment">Registrar</string>
+    <string name="tvRegistro">Registro</string>
+    <string name="tvId">Bebida #</string>
+    <string name="tvTituloReg">Registro de consumo</string>
+    <string name="tvTipo">Tipo de bebida</string>
+    <string name="tvCantidad">Cantidad en ml</string>
+    <string name="tvFecha">Fecha</string>
+    <string name="btSalvar">Guardar</string>
+    <string name="btCancelar">Cancelar</string>
+    <string name="btModificar">Guardar</string>
+    <string name="btEliminar">Eliminar</string>
+
+    <string name="menu_exit">Minimizar</string>
+    <string name="menu_logoff">Finalizar Sesión</string>
+
+    <string name="bt_exit">Minimizar</string>
+    <string name="bt_logoff">Finalizar Sesión</string>
+
+    <string name="btBuscar">Buscar</string>
+    <string name="btListar">Lista</string>
+
+    <string name="menu_apoyo">Apoyo</string>
+    <string name="tvApoyo">¿Necesita Apoyo?</string>
+    <string name="tvVisita">Visita nuestra pagina</string>
+    <string name="btAqui">Aquí</string>
+    <string name="tvContacto">Contacto</string>
+    <string name="tvOficina" translatable="false">Oficina de Alcohólicos Anónimos</string>
+    <string name="tvDireccion">Direccion: San José, Costa Rica, costado este Escuela Juan Rafael Mora de la terminal de buses de Jaco en la Coca Cola 200 mts. Oeste, segunda casa mano izquierda.  </string>
+    <string name="tvTelefono">Tel: 2222 5224</string>
+    <string name="tvCorreo">Correo electrónico: aaosgcr@gmail.com</string>
+
+    <string name="menu_perfil" translatable="false">Perfil</string>
+    <string name="tvNombre" translatable="false">Nombre</string>
+    <string name="tvEdad" translatable="false">Edad</string>
+    <string name="btBuscarImagen" translatable="false">Cambiar imagen de perfil</string>
+    <string name="bt_Subir" translatable="false">Cargar</string>
+</resources>

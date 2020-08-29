@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526686883078",
+    "firebase_url": "https://dtrackerfide.firebaseio.com",
+    "project_id": "dtrackerfide",
+    "storage_bucket": "dtrackerfide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526686883078:android:26bb65f161e1a09a5fa287",
+        "android_client_info": {
+          "package_name": "org.games.drinktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526686883078-bu2odvc75ispq9vj1nvfq767i2cob3ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.games.drinktracker",
+            "certificate_hash": "47bc93043a538e9b86b6f4c31ecf3a915cddfd9e"
+          }
+        },
+        {
+          "client_id": "526686883078-g635cmp3b2dmifc8silacrpqqtq0gn55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdVN8d2GjqDUdOG55HiZtzPNMD08SFC64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526686883078-g635cmp3b2dmifc8silacrpqqtq0gn55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

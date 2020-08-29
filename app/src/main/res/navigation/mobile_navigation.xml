@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="org.games.drinktracker.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_registro"
+        android:name="org.games.drinktracker.ui.registro.RegistroFragment"
+        android:label="@string/menu_registro"
+        tools:layout="@layout/activity_registro" />
+
+    <fragment
+        android:id="@+id/nav_apoyo"
+        android:name="org.games.drinktracker.ui.apoyo.apoyo"
+        android:label="@string/menu_apoyo"
+        tools:layout="@layout/fragment_apoyo" />
+
+    <fragment
+        android:id="@+id/nav_perfil"
+        android:name="org.games.drinktracker.ui.perfil.perfil"
+        android:label="@string/menu_perfil"
+        tools:layout="@layout/fragment_perfil" />
+
+    <fragment
+        android:id="@+id/nav_exit"
+        android:name="org.games.drinktracker.ui.exit.ExitFragment"
+        android:label="@string/menu_exit"
+        tools:layout="@layout/fragment_exit" />
+
+    <fragment
+        android:id="@+id/nav_logoff"
+        android:name="org.games.drinktracker.ui.logoff.LogoffFragment"
+        android:label="@string/menu_logoff"
+        tools:layout="@layout/fragment_logoff" />
+</navigation>

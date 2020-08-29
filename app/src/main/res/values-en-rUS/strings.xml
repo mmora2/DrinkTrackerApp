@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvUsuario">User</string>
+    <string name="tvContraseña">Password</string>
+    <string name="tvBienvenido">Welcome to Drink Tracker!!!</string>
+    <string name="title_activity_principal">Main</string>
+    <string name="menu_home">Start</string>
+    <string name="menu_registro">Drink register</string>
+    <string name="menu_registroFragment">Register</string>
+    <string name="tvRegistro">Register</string>
+    <string name="tvId">Drink #</string>
+    <string name="tvTituloReg">Drink register</string>
+    <string name="tvTipo">Drink type</string>
+    <string name="tvCantidad">Drink Quantity (ml)</string>
+    <string name="tvFecha">Date</string>
+    <string name="btSalvar">Save</string>
+    <string name="btCancelar">Cancel</string>
+    <string name="menu_exit">Minimize</string>
+    <string name="menu_logoff">Log Out</string>
+    <string name="bt_exit">Exit</string>
+    <string name="bt_logoff">Log Out</string>
+    <string name="btBuscar">Find</string>
+    <string name="btListar">List</string>
+    <string name="menu_apoyo">Support</string>
+    <string name="tvApoyo">Do you need support?</string>
+    <string name="tvVisita">Visit our page</string>
+    <string name="btAqui">Here</string>
+    <string name="tvContacto">Contact</string>
+    <string name="tvTelefono">Phone: (506) 2222 5224</string>
+    <string name="tvCorreo">Email: aaosgcr@gmail.com</string>
+    <string name="tvDireccion">"Address: San José, Costa Rica, costado este Escuela Juan Rafael Mora de la terminal de buses de Jaco en la Coca Cola 200 mts. Oeste, segunda casa mano izquierda.  "</string>
+    <string name="btGuardar">Save</string>
+    <string name="btEliminar">Delete</string>
+    <string name="btModificar">Save</string>
+</resources>
